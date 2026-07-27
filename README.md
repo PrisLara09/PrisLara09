@@ -25,7 +25,7 @@ Industrial Engineering graduate specializing in process data analysis, root-caus
 
 ## 💻 Data Science & Analytics Portfolio
 
-📁 *Project Repository:* [github.com/PrisLara09/Portfolio](https://github.com/PrisLara09/Portfolio)
+[![Portfolio](https://img.shields.io/badge/📂_View_Data_Science_Portfolio-0052CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrisLara09/Portfolio)
 
 Practical applications of **Python* and *SQL* combined with industrial engineering principles to extract, transform, analyze, and model operational data:*
 
@@ -45,9 +45,9 @@ Practical applications of **Python* and *SQL* combined with industrial engineeri
 
 ---
 
-## 🏆 Certifications & Professional Development
+## 🏆 Certifications & Continuous Learning
 
-📁 *Certifications Repository:* [github.com/PrisLara09/Certifications](https://github.com/PrisLara09/Certifications)
+[![Certifications](https://img.shields.io/badge/📜_View_Certifications_Repository-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrisLara09/Certifications)
 
 * *Data Science, SQL & Python Credentials:* Documentation and certificates covering technical courses, data analysis techniques, and continuous self-learning in Data Science.
 
