@@ -10,16 +10,16 @@
 
 ## 👤 Executive Summary
 
-Industrial Engineering graduate specializing in process data analysis, root-cause investigation, and quality metrics within regulated manufacturing environments (GMP)[cite: 1]. Highly dedicated, results-oriented, and passionate about continuous learning and personal growth. A strong team player skilled in transforming operational data into actionable insights through statistical analysis tools (Minitab), Python, SQL queries, advanced Excel modeling, and data-driven risk management (pFMEA)[cite: 1]. Eager to apply Data Science methodologies and process optimization to drive quality, efficiency, and predictive decision-making in collaborative environments.
+Industrial Engineering graduate specializing in process data analysis, root-cause investigation, and quality metrics within regulated manufacturing environments (GMP). Highly dedicated, results-oriented, and passionate about continuous learning and personal growth. A strong team player skilled in transforming operational data into actionable insights through statistical analysis tools (Minitab), Python, SQL queries, advanced Excel modeling, and data-driven risk management (pFMEA). Eager to apply Data Science methodologies and process optimization to drive quality, efficiency, and predictive decision-making in collaborative environments.
 
 ---
 
 ## ⚙️ Work Methodology & Professional Approach
 
-* *Data-Driven & Analytical Problem Solving:* I approach challenges by gathering concrete data, identifying root causes through statistical tools, and making objective, evidence-based recommendations rather than relying on assumptions[cite: 1].
-* *Adaptability & Continuous Learning:* I quickly adapt to new tools, software, and dynamic environments[cite: 1]. I actively seek opportunities to learn new technologies in data analysis and engineering to continuously upgrade my skills.
-* *Collaborative & Solution-Oriented Communication:* I believe the best results come from open teamwork. I collaborate cross-functionally with engineering, quality, and production teams to bridge technical criteria with practical execution[cite: 1].
-* *Attention to Detail & Dedication:* Having worked in regulated GMP environments, I maintain high standards of rigor, thoroughness, and effort in every process, audit, and analysis I handle[cite: 1].
+* *Data-Driven & Analytical Problem Solving:* I approach challenges by gathering concrete data, identifying root causes through statistical tools, and making objective, evidence-based recommendations rather than relying on assumptions.
+* *Adaptability & Continuous Learning:* I quickly adapt to new tools, software, and dynamic environments. I actively seek opportunities to learn new technologies in data analysis and engineering to continuously upgrade my skills.
+* *Collaborative & Solution-Oriented Communication:* I believe the best results come from open teamwork. I collaborate cross-functionally with engineering, quality, and production teams to bridge technical criteria with practical execution.
+* *Attention to Detail & Dedication:* Having worked in regulated GMP environments, I maintain high standards of rigor, thoroughness, and effort in every process, audit, and analysis I handle.
 
 ---
 
