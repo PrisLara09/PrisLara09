@@ -38,10 +38,10 @@ Practical applications of **Python* and *SQL* combined with industrial engineeri
 ## 📊 Technical & Soft Skills
 
 * *Data Science & Programming:* Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (Data Extraction, Aggregation, Relational Queries).
-* *Data Analysis & Statistics:* Data Cleaning & Analysis, Statistical Process Control (SPC), Root-Cause Analysis, Trend Analysis, Minitab, Advanced Excel[cite: 1].
-* *Engineering Tools & Systems:* SAP, SolidWorks, AutoCAD, Windchill (PLM), pFMEA Risk Modeling[cite: 1].
-* *Domain Expertise:* Manufacturing Analytics, Quality Systems Awareness, GMP Environments, Process Validation & Monitoring[cite: 1].
-* *Soft Skills & Work Ethic:* Collaborative Teamwork, Fast Learner & Continuous Improvement Mindset, High Dedication & Effort, Quantitative Problem Solving, Technical Communication[cite: 1].
+* *Data Analysis & Statistics:* Data Cleaning & Analysis, Statistical Process Control (SPC), Root-Cause Analysis, Trend Analysis, Minitab, Advanced Excel.
+* *Engineering Tools & Systems:* SAP, SolidWorks, AutoCAD, Windchill (PLM), pFMEA Risk Modeling.
+* *Domain Expertise:* Manufacturing Analytics, Quality Systems Awareness, GMP Environments, Process Validation & Monitoring.
+* *Soft Skills & Work Ethic:* Collaborative Teamwork, Fast Learner & Continuous Improvement Mindset, High Dedication & Effort, Quantitative Problem Solving, Technical Communication.
 
 ---
 
@@ -57,27 +57,27 @@ Practical applications of **Python* and *SQL* combined with industrial engineeri
 
 ### *Manufacturing Engineering Intern* | MicroVention-Terumo
 Sep 2023 – Jan 2025[cite: 1]
-* *Defect & Rejection Analysis:* Collaborated closely with cross-functional quality and production teams to analyze rejection data, identify failure patterns, and refine feedback loops[cite: 1].
-* *Risk & Process Data Review:* Assisted in reviewing pFMEA risk models and quantitative manufacturing procedures to support data-backed decision-making[cite: 1].
-* *Validation Monitoring & Tracking:* Demonstrated commitment and adaptability by supporting validation engineers during process follow-ups, simulations, and material tracking[cite: 1].
-* *Technical Training & Standards:* Supported data-driven process training for production staff regarding quality criteria and measurement tooling[cite: 1].
+* *Defect & Rejection Analysis:* Collaborated closely with cross-functional quality and production teams to analyze rejection data, identify failure patterns, and refine feedback loops.
+* *Risk & Process Data Review:* Assisted in reviewing pFMEA risk models and quantitative manufacturing procedures to support data-backed decision-making.
+* *Validation Monitoring & Tracking:* Demonstrated commitment and adaptability by supporting validation engineers during process follow-ups, simulations, and material tracking.
+* *Technical Training & Standards:* Supported data-driven process training for production staff regarding quality criteria and measurement tooling.
 
 ### *Assembly Operator* | Freudenberg Medical
-May 2022 – Sep 2023[cite: 1]
-* Maintained high attention to detail and strong work ethic in medical device assembly under strict GMP standards, ensuring data integrity and procedure adherence[cite: 1].
+May 2022 – Sep 2023
+* Maintained high attention to detail and strong work ethic in medical device assembly under strict GMP standards, ensuring data integrity and procedure adherence.
 
 ### *Operations Assistant* | GoSolar Energy Efficiency
-Nov 2019 – May 2022[cite: 1]
-* Worked as part of the operations team to manage reporting and technical documentation for solar energy projects, supporting performance tracking and operational efficiency[cite: 1].
+Nov 2019 – May 2022
+* Worked as part of the operations team to manage reporting and technical documentation for solar energy projects, supporting performance tracking and operational efficiency.
 
 ### *Documentation Assistant* | BMA (Scotiabank)
-Nov 2018 – Nov 2019[cite: 1]
-* Evaluated, audited, and verified financial documentation datasets for personal, collateral, and mortgage credit processes[cite: 1].
+Nov 2018 – Nov 2019
+* Evaluated, audited, and verified financial documentation datasets for personal, collateral, and mortgage credit processes.
 
 ---
 
 ## 🎓 Education
 
 *Bachelor’s Degree in Industrial Engineering*  
-Hispanoamerican University (2025)[cite: 1]  
+Hispanoamerican University (2025)  
 Focus: Operations Research, Quality Systems, Statistical Process Control, and Industrial Data Management.
