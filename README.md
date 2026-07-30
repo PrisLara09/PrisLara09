@@ -3,7 +3,7 @@
 
 📍 Tacares, Grecia, Alajuela, Costa Rica  
 📧 [Priscila.lara0994@gmail.com](mailto:Priscila.lara0994@gmail.com) | 📱 +506 8578-3386  
-🌐 *Languages:* Spanish (Native) | English (B1+)  
+🌐 *Languages:* Spanish (Native) | English (B2)  
 ✈️ *Additional Info:* U.S. Visa (B1/B2) | Available to travel  
 
 ---
