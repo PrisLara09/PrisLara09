@@ -10,7 +10,7 @@
 
 ## 👤 Executive Summary
 
-Industrial Engineering graduate specializing in process data analysis, root-cause investigation, and quality metrics within regulated manufacturing environments (GMP). Highly dedicated, results-oriented, and passionate about continuous learning and personal growth. A strong team player skilled in transforming operational data into actionable insights through statistical analysis tools (Minitab), Python, SQL queries, advanced Excel modeling, and data-driven risk management (pFMEA). Eager to apply Data Science methodologies and process optimization to drive quality, efficiency, and predictive decision-making in collaborative environments.
+Industrial Engineering graduate specializing in process data analysis, with experience supporting Manufacturing Engineering and Quality activities in regulated medical device environments. Hands-on exposure to validation documentation, pFMEA, GMP manufacturing, and cross-functional collaboration with Engineering, Quality, and Production teams. Highly dedicated and results-oriented professional with a passion for continuous learning and personal growth, strong attention to detail, analytical thinking, and the adaptability to thrive in fast-paced manufacturing environments. Skilled in transforming operational data into actionable insights through statistical analysis, Minitab, Python, SQL, and intermediate-level Excel data analysis and modeling. Eager to leverage Data Science methodologies and process optimization techniques to drive quality, operational efficiency, and predictive decision-making within collaborative, high-performance teams.
 
 ---
 
