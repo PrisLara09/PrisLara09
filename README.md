@@ -16,10 +16,10 @@ Industrial Engineering graduate specializing in process data analysis, with expe
 
 ## ⚙️ Work Methodology & Professional Approach
 
-* *Data-Driven & Analytical Problem Solving:* I approach challenges by gathering concrete data, identifying root causes through statistical tools, and making objective, evidence-based recommendations rather than relying on assumptions.
-* *Adaptability & Continuous Learning:* I quickly adapt to new tools, software, and dynamic environments. I actively seek opportunities to learn new technologies in data analysis and engineering to continuously upgrade my skills.
-* *Collaborative & Solution-Oriented Communication:* I believe the best results come from open teamwork. I collaborate cross-functionally with engineering, quality, and production teams to bridge technical criteria with practical execution.
-* *Attention to Detail & Dedication:* Having worked in regulated GMP environments, I maintain high standards of rigor, thoroughness, and effort in every process, audit, and analysis I handle.
+* *Data-Driven & Analytical Problem Solving:* Approaches challenges through data collection, root-cause identification, and evidence-based decision-making, leveraging analytical and statistical tools to support effective solutions.
+* *Adaptability & Continuous Learning:* Quickly adapts to new tools, technologies, and dynamic environments, continuously developing skills in data analytics, engineering, and process improvement.
+* *Collaborative & Solution-Oriented Communication:* Works effectively across Engineering, Quality, and Production teams, facilitating collaboration between technical requirements and practical implementation.
+* *Attention to Detail & Dedication:* Maintains high standards of accuracy, rigor, and thoroughness through experience in GMP-regulated environments, supporting audits, documentation reviews, and process-related activities.
 
 ---
 
@@ -29,19 +29,19 @@ Industrial Engineering graduate specializing in process data analysis, with expe
 
 Practical applications of **Python* and *SQL* combined with industrial engineering principles to extract, transform, analyze, and model operational data:*
 
-* *🛢️ SQL Querying & Database Analysis:* Extracting and aggregating key performance indicators (KPIs), defect logs, and production metrics from relational databases using queries, CTEs, and JOINs.
-* *🐍 Python for Exploratory Data Analysis (EDA) & Data Science:* Performing data cleaning, statistical distributions, anomaly detection, and data visualization using Pandas, NumPy, Matplotlib, and Seaborn.
-* *🤖 Predictive Analytics & Process Modeling:* Applying foundational machine learning algorithms (Scikit-learn) to model process outcomes, defect patterns, and quality trends.
+* *🛢️ SQL Querying & Database Analysis:* Extracting, filtering, and aggregating operational data from relational databases to support reporting, performance tracking, and decision-making.
+* *🐍 Python for Data Analysis:* Using Pandas for data cleaning, transformation, organization, and exploratory analysis to support operational and process-related insights.
+* *📊 Process Analysis & Continuous Improvement:* Applying statistical analysis, Minitab, Excel, and industrial engineering methodologies to evaluate process performance, identify improvement opportunities, and support quality and operational efficiency initiatives. 
 
 ---
 
 ## 📊 Technical & Soft Skills
 
-* *Data Science & Programming:* Python (Pandas), SQL (Data Extraction, Aggregation, Relational Queries), Minitab, and Excel for data analysis, reporting, and process improvement.
-* *Data Analysis & Statistics:* Data Cleaning & Analysis, Statistical Process Control (SPC), Root-Cause Analysis, Trend Analysis, Minitab, Advanced Excel.
-* *Engineering Tools & Systems:* SAP, SolidWorks, AutoCAD, Windchill (PLM).
-* *Domain Expertise:* Manufacturing Analytics, Quality Systems Awareness, GMP Environments, Process Validation & Monitoring.
-* *Soft Skills & Work Ethic:* Collaborative Teamwork, Fast Learner & Continuous Improvement Mindset, High Dedication & Effort, Quantitative Problem Solving, Technical Communication.
+* *Data Science & Programming:* Python (Pandas for Data Cleaning, Transformation, and Exploratory Data Analysis), SQL (Data Extraction, Aggregation, Relational Queries), Minitab, and Intermediate Excel (Pivot Tables, VLOOKUP/XLOOKUP) for data analysis, reporting, and process improvement.
+* *Data Analysis & Statistics:* Data Cleaning & Analysis, Exploratory Data Analysis (EDA), Root-Cause Analysis (5 Whys, Pareto Analysis), Trend Analysis, Process Performance Evaluation, Minitab, and Intermediate Excel.
+* *Engineering Tools & Systems:* SAP, Windchill (PLM), SolidWorks (Basic Exposure), AutoCAD (Basic), and Microsoft Office Suite.
+* *Domain Expertise:* Manufacturing Data Analysis, Manufacturing Engineering Support, Quality Systems Awareness, GMP-Regulated Medical Device Environments, Validation Documentation Review, pFMEA Review, FDA Audit Readiness Support, and Cross-Functional Collaboration.
+* *Soft Skills & Work Ethic:* Collaborative Teamwork, Fast Learner & Continuous Improvement Mindset, High Dedication & Work Ethic, Problem Solving, Technical Communication, Project Leadership, and Training Support.
 
 ---
 
@@ -56,7 +56,7 @@ Practical applications of **Python* and *SQL* combined with industrial engineeri
 ## 💼 Professional Experience
 
 ### *Manufacturing Engineering Intern* | MicroVention-Terumo
-Sep 2023 – Jan 2025[cite: 1]
+Sep 2023 – Jan 2025
 * *Defect & Rejection Analysis:* Collaborated closely with cross-functional quality and production teams to analyze rejection data, identify failure patterns, and refine feedback loops.
 * *Risk & Process Data Review:* Collaborated in the review of pFMEA risk analyses to verify risk assessments, ensure documentation accuracy, and support FDA audit readiness within a regulated medical device environment.
 * *Validation Monitoring & Tracking:* Demonstrated commitment and adaptability by supporting validation engineers during process follow-ups, simulations, and material tracking.
