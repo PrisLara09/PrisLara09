@@ -37,7 +37,7 @@ Practical applications of **Python* and *SQL* combined with industrial engineeri
 
 ## 📊 Technical & Soft Skills
 
-* *Data Science & Programming:* Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (Data Extraction, Aggregation, Relational Queries).
+* *Data Science & Programming:* Python (Pandas), SQL (Data Extraction, Aggregation, Relational Queries), Minitab, and Excel for data analysis, reporting, and process improvement.
 * *Data Analysis & Statistics:* Data Cleaning & Analysis, Statistical Process Control (SPC), Root-Cause Analysis, Trend Analysis, Minitab, Advanced Excel.
 * *Engineering Tools & Systems:* SAP, SolidWorks, AutoCAD, Windchill (PLM).
 * *Domain Expertise:* Manufacturing Analytics, Quality Systems Awareness, GMP Environments, Process Validation & Monitoring.
