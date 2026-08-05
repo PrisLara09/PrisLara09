@@ -39,7 +39,7 @@ Practical applications of **Python* and *SQL* combined with industrial engineeri
 
 * *Data Science & Programming:* Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (Data Extraction, Aggregation, Relational Queries).
 * *Data Analysis & Statistics:* Data Cleaning & Analysis, Statistical Process Control (SPC), Root-Cause Analysis, Trend Analysis, Minitab, Advanced Excel.
-* *Engineering Tools & Systems:* SAP, SolidWorks, AutoCAD, Windchill (PLM), pFMEA Risk Modeling.
+* *Engineering Tools & Systems:* SAP, SolidWorks, AutoCAD, Windchill (PLM).
 * *Domain Expertise:* Manufacturing Analytics, Quality Systems Awareness, GMP Environments, Process Validation & Monitoring.
 * *Soft Skills & Work Ethic:* Collaborative Teamwork, Fast Learner & Continuous Improvement Mindset, High Dedication & Effort, Quantitative Problem Solving, Technical Communication.
 
@@ -58,7 +58,7 @@ Practical applications of **Python* and *SQL* combined with industrial engineeri
 ### *Manufacturing Engineering Intern* | MicroVention-Terumo
 Sep 2023 – Jan 2025[cite: 1]
 * *Defect & Rejection Analysis:* Collaborated closely with cross-functional quality and production teams to analyze rejection data, identify failure patterns, and refine feedback loops.
-* *Risk & Process Data Review:* Assisted in reviewing pFMEA risk models and quantitative manufacturing procedures to support data-backed decision-making.
+* *Risk & Process Data Review:* Collaborated in the review of pFMEA risk analyses to verify risk assessments, ensure documentation accuracy, and support FDA audit readiness within a regulated medical device environment.
 * *Validation Monitoring & Tracking:* Demonstrated commitment and adaptability by supporting validation engineers during process follow-ups, simulations, and material tracking.
 * *Technical Training & Standards:* Supported data-driven process training for production staff regarding quality criteria and measurement tooling.
 
